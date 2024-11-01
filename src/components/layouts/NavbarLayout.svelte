@@ -18,7 +18,7 @@
   <div class="mx-auto">
     <div class="flex mx-auto justify-between w-5/6 py-5">
       <div class="flex items-center gap-5">
-        <span class="text-3xl font-bold">slowcode07</span>
+        <span class="text-3xl font-bold">Ram Akasaka</span>
       </div>
       <div class="hidden lg:flex gap-8 ml-auto">
         {#each Object.entries(links) as [name, url]}

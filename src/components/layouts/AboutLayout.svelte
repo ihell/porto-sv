@@ -31,12 +31,12 @@
         <p
           class="md:w-80 mt-5 w-90 md:text-left text-center text-tokyo-night-foreground"
         >
-          I am a passionate <strong>Full Stack Developer</strong> with two years
+          I am a passionate <strong>Full Stack Developer</strong> with one years
           of experience specializing in web development. I have a strong
           foundation in a variety of technologies, including Svelte, NestJS,
           Next.js, Vue.js, Laravel, and Express.js. Currently, I am pursuing my
-          studies at <strong>SMKN 6 Malang</strong> in the
-          <strong>Information Systems and Applications Network</strong> (SIJA) program.
+          studies at <strong>SMK Plus Insan Cemerlang</strong> in the
+          <strong>Softwere Engineering</strong> (RPL) program.
         </p>
       </div>
     </div>
